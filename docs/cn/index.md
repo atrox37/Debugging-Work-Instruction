@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "作业指导书-调试"
+  name: "现场作业指导手册"
   tagline: "用于现场调试的标准化步骤指引。"
   actions:
     - theme: brand

@@ -59,10 +59,10 @@ export default defineConfig({
       label: "English",
       link: "/",
       lang: "en-US",
-      title: "Debugging Work Instruction",
+      title: "Field Work Manual",
       description: "Debugging work instruction steps",
       themeConfig: {
-        siteTitle: "Debugging Instruction",
+        siteTitle: "Field Work Manual",
         nav: [
           {
             text: "Work Steps",
@@ -110,10 +110,10 @@ export default defineConfig({
       label: "简体中文",
       link: "/cn/",
       lang: "zh-CN",
-      title: "作业指导书-调试",
+      title: "现场作业指导手册",
       description: "调试作业步骤说明",
       themeConfig: {
-        siteTitle: "作业指导书-调试",
+        siteTitle: "现场作业指导手册",
         nav: [
           {
             text: "作业步骤",
@@ -124,7 +124,7 @@ export default defineConfig({
         sidebar: {
           "/cn/manuals/": [
             {
-              text: "作业指导书-调试",
+              text: "现场作业指导手册",
               collapsed: false,
               items: [
                 {

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Debugging Work Instruction"
+  name: "Field Work Manual"
   tagline: "Standardized operation steps for on-site debugging."
   actions:
     - theme: brand
